@@ -28,5 +28,5 @@ jobs:
           #it is not the docs folder in the repository
           publish_dir: _site
           #publish_branch is the branch in the repository.
-          #this is where you need to point GitHub pages
+          #this is where you need to point GitHub pages setting
           publish_branch: gh-pages
